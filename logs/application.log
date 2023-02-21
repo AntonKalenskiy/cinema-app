@@ -1,3 +1,0 @@
-2023-02-21 17:27:46,957 INFO cinema.service.impl.AuthenticationServiceImpl:33 register method was called. Params: email = deadshot@ukr.net
-2023-02-21 17:28:26,093 INFO cinema.service.impl.AuthenticationServiceImpl:33 register method was called. Params: email = robin@ukr.net
-2023-02-21 17:30:37,153 ERROR cinema.service.impl.AuthenticationServiceImpl:42 User failed to authorize with login = lera.bondar2016
